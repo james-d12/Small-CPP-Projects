@@ -1,0 +1,1 @@
+A collection of old / outdated small C++ projects that I made a while ago.

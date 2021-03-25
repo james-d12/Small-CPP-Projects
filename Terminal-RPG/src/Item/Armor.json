@@ -1,0 +1,34 @@
+[
+    {
+        "Name":"Leather Armor",
+        "Price":50,
+        "Weight":12.5,
+        "Armor Rating":15,
+        "Armor Type":"Light"
+    },
+
+    {
+        "Name":"Hide Armor",
+        "Price":25,
+        "Weight":7.5,
+        "Armor Rating":10,
+        "Armor Type":"Light"
+    },
+
+    {
+        "Name":"Iron Armor",
+        "Price":125,
+        "Weight":25,
+        "Armor Rating":27.5,
+        "Armor Type":"Heavy"
+    },
+
+    {
+        "Name":"Steel Armor",
+        "Price":200,
+        "Weight":35,
+        "Armor Rating":40,
+        "Armor Type":"Heavy"
+    }
+    
+]
